@@ -2,7 +2,7 @@
 layout: post
 title: "Atomic Habits"
 description: ""
-date: 2020-03-23
+date: 2020-03-28
 feature_image: images/desk.jpg
 authors: [Jeroen Van Der Donckt]
 tags: [book review, self-improvement]
