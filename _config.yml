@@ -27,7 +27,7 @@ description: "Unfiltered thoughts about experiences in our muddled lives"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://vanderdonckt.info"
 
 # Favicon
 favicon: images/favicon.png
