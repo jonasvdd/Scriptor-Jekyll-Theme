@@ -16,7 +16,7 @@ To write:
 
 
 TODO:
-    ☐ Add google analytiscs @high 
+    ✔ Add google analytiscs @high @done(20-03-24 12:56)
     ✔ Disable comments @done(20-03-21 21:54)
     ✘ 3 about pages @cancelled(20-03-22 23:13)
         ✔ Jeroen -> will be used as ref who wrote the blog @done(20-03-22 23:13)
@@ -24,9 +24,14 @@ TODO:
     ✔ Fix multiple authors @done(20-03-22 12:07)
     ✔ Fix about page for multiple authors @done(20-03-22 23:12)
         --> hard to do because we need a link between ahtor and about page
-    ☐ Fix footer with socials
+    ✔ Fix footer with socials @done(20-03-24 14:29)
+        ✔ Github should reference the original Scriptor github repo @done(20-03-24 14:30)
+        ✔ Twitter should be removed @done(20-03-24 14:29)
+        ✔ LinkedIn should be removed @done(20-03-24 14:29)
+    ☐ Fix sharing of articles (share link is incorrect, e.g., try to share for twitter)
     ✔ Find the best daybook app @done(20-03-22 14:42)
         Journey :) 
+    ✔ Fix dat hij mobile responsive is @critical @done(20-03-24 16:17)
     ☐ Fix four laws of atomic habits 
     ✔ About page @done(20-03-23 21:24)
     ☐ Kijken voor justify text
@@ -70,5 +75,4 @@ Cool idea:
     * Tag toevoegen voor life-event 
         * Artikel voor Jonas: Sumer 2019
         * Artikel voor Jeroen: Graduating July 2020
-
-    
+    * blog over intenties
