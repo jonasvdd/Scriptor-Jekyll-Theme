@@ -18,19 +18,26 @@ First and foremost, I want to explicitly make clear that I have nothing against 
 
 After some online research on this topic, I found the reddit [NoFap community](https://www.reddit.com/r/NoFap/), whose main goal is to endorse total renouncement from porn and masturbation, also known as *PMO (Porn, Masturbation, Orgasm; and explicitly in that order)*. Their main point is that porn (and masturbation) has several negative effects on our mental and physical health. An uncomplete collection of these effects are:
 
-* PMO creates a wrong image of what sexuality is and how healthy sex should be like.  
+* PMO creates a wrong image of what sexuality is and how healthy sex should be like. [[1]](#guy-internet)   
 * PMO makes you (at least me) dishonest (by keeping it a secret) and thus makes you feel "dirty".
 * PMO is a way of choosing the least resistant path, it is the most effortless gratification of your sexual drive.
 
-> "The ability to discipline yourself to delay gratification in the short term in order to enjoy greater rewards in the long term, is the indispensable prerequisite for success" <small><i>— Brian Tracy; </i> author of *Eat That Frog!*</small>
+> <div style="text-align: left;">"The ability to discipline yourself to delay gratification in the short term in order to enjoy greater rewards in the long term, is the indispensable prerequisite for success" <small><i>— Brian Tracy; </i> author of *Eat That Frog!*</small></div>
 
 I believe it is very important to focus on the underlying motivation of the NoFap community. Everybody wants to improve their life. However, most people seem to get lost in the step between intent and putting it into action. NoFap members acknowledge that they have a "bad habit" **and take action** to change their lives; this is what separates them from the rest. Additionally, restraining from an addiction, is limit testing your willpower and allows to build up your discipline. 
 
-> "Action may not always bring happiness, but there is no happiness without action." <small><i>— Benjamin Disraeli;</i> former British Prime Minister </small>
+> <div style="text-align: left;">"Action may not always bring happiness, but there is no happiness without action." <small><i>— Benjamin Disraeli;</i> former British Prime Minister </small></div>
 
 Note that the title explicitly says I quitted masturbation, as it is not part of my identity. I dit this deliberately to enforce the mindset that I don't fap anymore. If I state that I'm trying to quit masturbating to porn, I somehow tell you that *PMO* is still a part of me. It is all about getting in the right mindset. *We will cover more about this in a later blog post*
 
 I want to stress that you will not miraculously change your life by quitting masturbation. But as you conquer this battle, you will feel more confident and ready to take on other challenges, create new healthier habits and even tackle some other bad habits. My longest no-porn/no-masturbation streak is a little over 40 days. If someone said to me one year ago that I would be able to have such a long streak, or even write this post, I would have deemed that absolutely impossible. I hope this might be an inspiration for others; no matter in what position you are, you can work on you now!
+
+---
+
+## References
+
+<a name="guy-internet">
+[1]</a> Guy, Rebecca J J., John M M. Kaldor, and George C C. Patton. "Internet Pornography and Adolescent Health: Early Findings on Effects of Online Pornography on Adolescents Show Associations with Risky Behaviour." Medical Journal of Australia 196.9 (2012): 546-47. Web.
 
 <!-- 
 ## Dopamine
