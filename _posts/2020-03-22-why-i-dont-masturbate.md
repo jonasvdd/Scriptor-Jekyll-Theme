@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I quit masturbating (to porn)"
+title: "Why I quit masturbating to porn"
 description: "Opinions are my own"
 date: 2020-03-22
 # feature_image: images/tignes.jpg
@@ -12,13 +12,13 @@ tags: [opinion, self-improvement]
   <img src="/images/tignes.jpg" width="100%"/>
 </p>
 
-First and foremost, I want to explicitly make clear that I have nothing against masturbation ... but have you ever tried to masturbate without using porn? At least I did, and it didn't feel the same. My own fantasies didn't suffice "to get really going". I needed porn to become properly horny, I was dependent on it. This awareness enabled me to acknowledge my addiction to masturbating, which on its turn caused me to question whether porn is healthy.
+First and foremost, I want to explicitly make clear that I have nothing against masturbation*, actually masturbation is really good [[1]](#kaestle-role).* But have you ever tried to masturbate without using porn? At least I did, and it didn't feel the same. My own fantasies didn't suffice "to get really going". I needed porn to become properly horny, I was dependent on it. This awareness enabled me to acknowledge my addiction to masturbating, which on its turn caused me to question whether porn is healthy.
 
 <!--more-->
 
 After some online research on this topic, I found the reddit [NoFap community](https://www.reddit.com/r/NoFap/), whose main goal is to endorse total renouncement from porn and masturbation, also known as *PMO (Porn, Masturbation, Orgasm; and explicitly in that order)*. Their main point is that porn (and masturbation) has several negative effects on our mental and physical health. An uncomplete collection of these effects are:
 
-* PMO creates a wrong image of what sexuality is and how healthy sex should be like. [[1]](#guy-internet)   
+* PMO creates a wrong image of what sexuality is and how healthy sex should be like [[2]](#guy-internet). 
 * PMO makes you (at least me) dishonest (by keeping it a secret) and thus makes you feel "dirty".
 * PMO is a way of choosing the least resistant path, it is the most effortless gratification of your sexual drive.
 
@@ -30,14 +30,27 @@ I believe it is very important to focus on the underlying motivation of the NoFa
 
 Note that the title explicitly says I quitted masturbation, as it is not part of my identity. I dit this deliberately to enforce the mindset that I don't fap anymore. If I state that I'm trying to quit masturbating to porn, I somehow tell you that *PMO* is still a part of me. It is all about getting in the right mindset. *We will cover more about this in a later blog post*
 
-I want to stress that you will not miraculously change your life by quitting masturbation. But as you conquer this battle, you will feel more confident and ready to take on other challenges, create new healthier habits and even tackle some other bad habits. My longest no-porn/no-masturbation streak is a little over 40 days. If someone said to me one year ago that I would be able to have such a long streak, or even write this post, I would have deemed that absolutely impossible. I hope this might be an inspiration for others; no matter in what position you are, you can work on you now!
+## The dopamine effect
 
----
+**TODO**
+
+## Why I will still be masturbating
+
+**TODO**
+
+## Conclusion
+
+I want to stress that you will not miraculously change your life by quitting masturbation. But as you conquer this battle, you will feel more confident and ready to take on other challenges, create new healthier habits and even tackle some other bad habits. My longest no-porn/no-masturbation streak is a little over 40 days. *As I said before, I do not encourage semen retention. This streak was a way to reboot my system. From then on I started masturbating on a regular basis, **without pornography**.* If someone said to me one year ago that I would be able to have such a long streak, or even write this post, I would have deemed that absolutely impossible. I hope this might be an inspiration for others; no matter in what position you are, you can work on you now!
+
+<!--more-->
 
 ## References
 
+<a name="kaestle-role">
+[1]</a> Kaestle, Christine E., and Katherine R. Allen. "The role of masturbation in healthy sexual development: Perceptions of young adults." Archives of Sexual Behavior 40.5 (2011): 983-994.
+
 <a name="guy-internet">
-[1]</a> Guy, Rebecca J J., John M M. Kaldor, and George C C. Patton. "Internet Pornography and Adolescent Health: Early Findings on Effects of Online Pornography on Adolescents Show Associations with Risky Behaviour." Medical Journal of Australia 196.9 (2012): 546-47. Web.
+[2]</a> Guy, Rebecca J J., John M M. Kaldor, and George C C. Patton. "Internet Pornography and Adolescent Health: Early Findings on Effects of Online Pornography on Adolescents Show Associations with Risky Behaviour." Medical Journal of Australia 196.9 (2012): 546-47. Web.
 
 <!-- 
 ## Dopamine
