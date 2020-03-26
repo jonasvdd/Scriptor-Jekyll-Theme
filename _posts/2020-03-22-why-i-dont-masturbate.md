@@ -18,13 +18,13 @@ First and foremost, I want to explicitly make clear that I have nothing against 
 
 After some online research on this topic, I found the reddit [NoFap community](https://www.reddit.com/r/NoFap/), whose main goal is to endorse total renouncement from porn and masturbation, also known as *PMO (Porn, Masturbation, Orgasm; and explicitly in that order)*. Their main point is that porn (and masturbation) has several negative effects on our mental and physical health. An uncomplete collection of these effects are:
 
-* PMO creates a wrong image of what sexuality is and how healthy sex should be like. [[1]](#guy-internet)   
+* PMO creates a wrong image of what sexuality is and how healthy sex should be like. [[1]](#guy-internet)
 * PMO makes you (at least me) dishonest (by keeping it a secret) and thus makes you feel "dirty".
 * PMO is a way of choosing the least resistant path, it is the most effortless gratification of your sexual drive.
 
 > <div style="text-align: left;">"The ability to discipline yourself to delay gratification in the short term in order to enjoy greater rewards in the long term, is the indispensable prerequisite for success" <small><i>— Brian Tracy; </i> author of *Eat That Frog!*</small></div>
 
-I believe it is very important to focus on the underlying motivation of the NoFap community. Everybody wants to improve their life. However, most people seem to get lost in the step between intent and putting it into action. NoFap members acknowledge that they have a "bad habit" **and take action** to change their lives; this is what separates them from the rest. Additionally, restraining from an addiction, is limit testing your willpower and allows to build up your discipline. 
+I believe it is very important to focus on the underlying motivation of the NoFap community. Everybody wants to improve their life. However, most people seem to get lost in the step between intent and putting it into action. NoFap members acknowledge that they have a "bad habit" **and take action** to change their lives; this is what separates them from the rest. Additionally, restraining from an addiction, is limit testing your willpower and allows to build up your discipline.
 
 > <div style="text-align: left;">"Action may not always bring happiness, but there is no happiness without action." <small><i>— Benjamin Disraeli;</i> former British Prime Minister </small></div>
 
@@ -39,12 +39,12 @@ I want to stress that you will not miraculously change your life by quitting mas
 <a name="guy-internet">
 [1]</a> Guy, Rebecca J J., John M M. Kaldor, and George C C. Patton. "Internet Pornography and Adolescent Health: Early Findings on Effects of Online Pornography on Adolescents Show Associations with Risky Behaviour." Medical Journal of Australia 196.9 (2012): 546-47. Web.
 
-<!-- 
+<!--
 ## Dopamine
-A few days ago, I broke my 30+ no-porn/masturbation streak ... intentionally. I didn't look up my normal 
+A few days ago, I broke my 30+ no-porn/masturbation streak ... intentionally. I didn't look up my normal
 
 ## Short term vs long-term gratification
 
-Another interesting concept I learned from Atomic Habits is the trade-off between short-term vs long-term gratification. Our brain, emotions tend to favor the first over the latter. Yet, in the long term, this short-term gratification is disadvantageous for us, e.g., in the short-term we prefer gaming over studying, while it is clear that studying will result in better prospects in the futures.  
+Another interesting concept I learned from Atomic Habits is the trade-off between short-term vs long-term gratification. Our brain, emotions tend to favor the first over the latter. Yet, in the long term, this short-term gratification is disadvantageous for us, e.g., in the short-term we prefer gaming over studying, while it is clear that studying will result in better prospects in the futures.
 
 Self-control (wilskracht) -->
