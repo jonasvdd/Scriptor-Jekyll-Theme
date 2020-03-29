@@ -26,7 +26,7 @@ layout: default
       </figure><!-- .post-thumbnail -->
       {% endif %}
     </header><!-- .post-header -->
-    <div class="post-content">
+    <div class="post-content" style="text-align: justify;">
       {{content}}
     </div><!-- .post-content -->
 
@@ -39,7 +39,7 @@ layout: default
         href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}&amp;t={{ page.title | uri_escape }}" rel="noopener">Facebook</a>
     </div><!-- .share-post -->
     <div class="author-box">
-      {% for author in page.authors %} {{ author }} 
+      {% for author in page.authors %} <!--{{ author }} -->
         {% for site_author in site.data.authors %}
           {% if author == site_author.name %}
             <div class="author-avatar" style="background-image: url('{{ site_author.image }}')"><span class="screen-reader-text">{{ site_author.name }}'s Picture</span></div>
