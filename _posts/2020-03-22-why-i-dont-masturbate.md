@@ -32,7 +32,7 @@ Note that the title explicitly says I quitted masturbation to porn, as it is not
 
 Thus I distance my self from masturbation to porn. Yet, that does not mean, in contradiction to the NoFap community, that I renounce masturbation in its whole. As a side effect of quitting masturbating to porn, my masturbation frequency has dropped significantly. But, as I believe (and is backed up by science [[1]](#kaestle-role)) masturbation has several benefits. It is therefore that I want to state explicitly that I will be masturbating in the future, just not to porn.
 
-### Conclusion
+## Conclusion
 
 I want to stress that you will not miraculously change your life by quitting masturbation. But as you conquer this battle, you will feel more confident and ready to take on other challenges, create new healthier habits and even tackle some other bad habits. My longest no-porn/no-masturbation streak is a little over 40 days. As I said before, I do not encourage semen retention. This streak was a way to reboot my system. From then on I started masturbating on a regular basis, **without pornography**. If someone said to me one year ago that I would be able to have such a long streak, or even write this post, I would have deemed that absolutely impossible. I hope this might be an inspiration for others; no matter in what position you are, you can work on you now!
 

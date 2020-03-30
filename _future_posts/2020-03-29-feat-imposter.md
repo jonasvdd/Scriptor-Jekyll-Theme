@@ -24,7 +24,16 @@ What i fear:
 * Personality test
     -> prudence --> saying it inhibits himself in meetings
 
+* fear & being comfortable -> actions
+
+Imposter --> being brutally honest, playing to your strengths, accepting your true self. I'm not supersmart, but I compensate that by working hard and being passionate. (And being brave when it matters), this is wat makes me human, accepting my flaws. 
+
+Being in love, is for me being able to live with someone, even when they have flaws. 
+
+Your own life is amazing, do not compare it with others
+    You don't need to; everybody shows their best side online acts more interesting than they really are. 
 
 > Fear is what makes people superficial
-> Fear is what makes you compare yourself with others
-> Fear makes you disaband your values
+> Fear is what makes you compare yourself with others, go with the flow
+> Fear makes you abandon your values
+
