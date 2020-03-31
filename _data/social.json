@@ -11,6 +11,16 @@
         "url": "https://www.liebertpub.com/doi/full/10.1089/cyber.2014.0560"
     },
     {
+        "title": "Goodreads",
+        "icon": "fa-goodreads",
+        "url": "https://www.goodreads.com/user/show/101644928-jonas-van-der-donckt"
+    },
+    {
+        "title": "Goodreads",
+        "icon": "fa-goodreads",
+        "url": "https://www.goodreads.com/user/show/101646852-jeroen"
+    },
+    {
         "title": "GitHub",
         "icon": "fa-github",
         "url": "https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme"
