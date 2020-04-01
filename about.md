@@ -21,7 +21,7 @@ We intend to use this blog as a means to reflect upon things we (individually) v
 
 Some articles tackle certain topics in which we are both highly invested. In that case, writing helps us to connect and create lasting memories. Luckily, we do not share the same opinion on everything. Thus many articles will tackle individual experiences, opinions, and book reviews. 
 
-> How boring would the world be if everyone thought exactly the same way? When you grant people freedom, you will find yours, too.
-> <cite>— Haemin Sunim</cite> 
+> <div style="text-align: left;">"How boring would the world be if everyone thought exactly the same way? When you grant people freedom, you will find yours, too."</div>
+> <cite>— Haemin Sunim</cite>
 
 *Thank You for reading!*
