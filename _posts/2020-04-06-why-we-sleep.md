@@ -41,7 +41,7 @@ I (re)started using [Sleep as Android](https://sleep.urbandroid.org/). This is a
   </b></p></small></figcaption>
 </p>
 
-This little app forces me reflect on my sleep behavior on a daily basis. It doesn't allow to suss my conscience as the data speaks for itself!
+This little app forces me to reflect on my sleep behavior on a daily basis. It doesn't allow to suss my conscience as the data speaks for itself!
 
 ## Our internal clock
 
