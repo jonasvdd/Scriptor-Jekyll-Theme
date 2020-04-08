@@ -37,11 +37,11 @@ I (re)started using [Sleep as Android](https://sleep.urbandroid.org/). This is a
 
 <p align="center">
   <img src="/images/why_sleep/sleep_graphs.jpg" width="65%"/>
-  <figcaption><small><p align="justify"><b>Fig. 2: My own sleep graphs from Sleep as Android. As the COVID-19 lockdown is ongoing, my sleep hygiene has improved significantly. Right now, I don't have to set an alarm anymore to wake up at 7 a.m.! I leave it as an exercise for the reader to infer the dates on which I didn't sleep in my own bed.
+  <figcaption><small><p align="justify"><b>Fig. 2: My own sleep graphs from Sleep as Android. As the COVID-19 lockdown is ongoing, my sleep hygiene has improved significantly. Right now, I don't have to set an alarm anymore to wake up at 7 a.m.! I leave it as an exercise for the reader to infer the dates on which I didn't sleep in my own bed :wink:.
   </b></p></small></figcaption>
 </p>
 
-This little app forces me reflect on my sleep behavior on a daily basis. It doesn't allow to suss my conscience as the data speaks for itself!
+This little app forces me to reflect on my sleep behavior on a daily basis. It doesn't allow to suss my conscience as the data speaks for itself!
 
 ## Our internal clock
 
