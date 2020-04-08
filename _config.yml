@@ -12,7 +12,7 @@ lang: en-US
 title: "Journeys"
 
 # A description of your site for meta tag, search engine results.
-# Maybe look into a quote? 
+# Maybe look into a quote?
 #   Haemin Sumin: Everything in this universe is evanescent
 #   Haemin Sumin: Choose happiness, not success, as your life’s goal. If you become successful but aren’t happy, then what is the point?
 #   Haemin Sumin: Any conversation can become interesting and lively as soon as we start speaking with real honesty.
@@ -62,6 +62,7 @@ footer:
 # Plugins
 plugins:
   - jekyll-paginate
+  - jemoji
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 3
