@@ -16,7 +16,7 @@ The [Fault in Our Stars](https://www.goodreads.com/book/show/11870085-the-fault-
 In the book, the lives of two teenagers, Hazel Grace and Augustus Waters, become tightly entangled. Both of their worlds are mainly focused around cancer. It is this common enemy that sparked their encounter at Cancer Kid Support Group.
 
 > <div style="text-align: left;">"Cancer kids are essentially side effects of the relentless mutation that made the diversity of life on earth possible."</div>
-> <cite>— John Green; The Fault in Our Stars<cite>
+> <cite>— John Green; The Fault in Our Stars</cite>
 
 <!--more-->
 
