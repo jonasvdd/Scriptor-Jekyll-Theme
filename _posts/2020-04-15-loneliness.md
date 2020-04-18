@@ -11,8 +11,8 @@ tags: [opinion, controversial]
   <img src="/images/tent.jpg" width="100%"/>
 </p>
 
-Everybody of us experiences feelings of loneliness at some point in their lives. This feeling is experienced amongst all ages.
-Having a clear view on the underlying concepts and consequences enables one to think about this subject. With this post, we want to break through the controversy around this topic. As cliché as it sounds, talking openly about this with each other may be an underestimated part of the solution.
+Everybody experiences feelings of loneliness at some point in their lives. This feeling can occur amongst all ages.
+Having a clear view on the underlying concepts and consequences enables one to think about this subject. With this post, we want to break through the controversy around loneliness. As cliché as it sounds, talking openly about this with each other may be an underestimated part of the solution.
 
 > <div style="text-align: left;">When you open up about your hurt and sorrow, I feel grateful that you’ve turned to me for support. It’s as though I am meeting you in the most sacred chamber of your heart.
 > <cite>— Haemin Sunim; The Things You Can See Only When You Slow Down</cite>
