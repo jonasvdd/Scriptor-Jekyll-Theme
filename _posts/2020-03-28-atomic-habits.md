@@ -24,6 +24,8 @@ The key takeaways from this book are presented in the following paragraphs (with
 
 A habit becomes your identity. Don't think identity is something static that merely changes over decades. I've seen my brother change his identity over a single summer going from being completely introvert to being an outgoing, active person. It is important to make habits part of your identity. Suppose someone offers you a cigarette. Saying a) 'No, I want to quit smoking' or b) 'No, I'm not a smoker' will likely have the same outcome in this situation. Yet the latter will have a bigger change of succeeding in quitting. Saying (and believing) that you are not a smoker, makes you (at least) think that you belong the the group of people who don't smoke. Feeling associated with a culture/group where your behavior is seen as normal increases your changes of maintaining good habits.
 
+In our <a href='/why-i-dont-masturbate'>first post</a> we talked about why we both quitted (a bad habit of) masturbation to pornography. In that post we elaborate on how we employed this identity tactic to change our mindset.
+
 <!-- TODO hier een cross-reference met NoFap post -->
 
 ### 2. Structure
@@ -50,7 +52,17 @@ Habit tracking is something tricky. First of all tracking a habit is actually a 
 
 ## Four laws to build lasting atomic habits
 
-**TODO**
+Now I will elaborate on the 4 laws to build lasting atomic habits (that are presented in the book). Each of these laws ...
+
+
+### Law 1: 
+
+### Law 2: 
+
+### Law 3:
+
+### Law 4: 
+
 
 ## Conclusion
 
