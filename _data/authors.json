@@ -1,14 +1,14 @@
 [
   {
   "name": "Jonas Van Der Donckt",
-  "bio": "Jonas is a rebel, romanticizes a little too much, sports a lot, reads many books, tries to figure himself out, and is currently a PhD student at Ghent University where he uses wearables among other sensing devices to monitor mental health.",
+  "bio": "Jonas is a rebel, romanticizes many things, sports a lot, can overthink situations, tries to live in the moment, reads books, figures himself out, and is currently a PhD student at Ghent University",
   // "url": "https://telefoonboek.ugent.be/en/people/802003168296",
   "location": "Ghent, Belgium",
   "image": "images/jonas.png"
   },
   {
     "name": "Jeroen Van Der Donckt",
-    "bio": "Jeroen is a harmonizer, sports a lot, reads many books, is currently a graduate student at KU Leuven, and has no idea what he will do next year.",
+    "bio": "Jeroen is a harmonizer, is prone to overthinking, tries to live in the moment, sports a lot, reads many books, is currently a graduate student at KU Leuven, and has no idea what he will do next year.",
     // "url": "https://justgoodthemes.com",
     "location": "Leuven, Belgium",
     "image": "images/jeroen.jpg"
